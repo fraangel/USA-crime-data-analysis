@@ -1,2 +1,2 @@
 # USA-crime-data-analysis
-University Project  whose purpose is to make data analysis on several datasets related to crime in the USA with particular focus on the city of LA
+University academic project that focuses on data analysis and predictions of crime rates in USA over the period of two years(2014-16) in general and specific focus on crime rates in LA over the same time period. Other information are available inside the folders.
